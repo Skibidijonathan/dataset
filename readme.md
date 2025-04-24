@@ -1,0 +1,1 @@
+Datasetet ska användas för att se vilka spelare som är bäst att ha i sitt lag för att få de mest optimala laget som får mest poäng. Det ska också visa vilka lag som spelar bäst för de är en faktor i hur mycket chanser spelarna får.
